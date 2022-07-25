@@ -33,3 +33,8 @@ This organization has been create by me [@Nebelung](https://github.com/Nebelung-
 - All issues new and old
 - Forks and stars
 - `php-proxy` is a fork of [Athlon1600/php-proxy](https://github.com/Athlon1600/php-proxy)
+
+#### Added Repos
+- Hypertabs from [https://github.com/B3ATDROP3R/Hypertabs](https://github.com/B3ATDROP3R/Hypertabs)
+- Oxide from [https://github.com/QuiteAFancyEmerald/Oxide](https://github.com/QuiteAFancyEmerald/Oxide)
+- Incognito from [https://github.com/caracal-js/Incognito](https://github.com/caracal-js/Incognito)
