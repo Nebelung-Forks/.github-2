@@ -39,3 +39,5 @@ This organization has been create by me [@Nebelung](https://github.com/Nebelung-
 - Oxide from [https://github.com/QuiteAFancyEmerald/Oxide](https://github.com/QuiteAFancyEmerald/Oxide)
 - Incognito from [https://github.com/caracal-js/Incognito](https://github.com/caracal-js/Incognito)
 - Holy Unblocker for info
+- Holy Unblocker old from [https://github.com/QuiteAFancyEmerald/Holy-Unblocker](https://github.com/QuiteAFancyEmerald/Holy-Unblocker)
+- HU-Archive from [https://github.com/QuiteAFancyEmerald/Holy-Unblocker](https://github.com/QuiteAFancyEmerald/HU-Archive)
